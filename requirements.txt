@@ -1,1 +1,3 @@
-pip install playwright requests && playwright install
+playwright
+requests
+discord.py
